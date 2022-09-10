@@ -1,0 +1,10 @@
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\bin\Debug\AkbankWebPracticum.exe.config
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\bin\Debug\AkbankWebPracticum.exe
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\bin\Debug\AkbankWebPracticum.pdb
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\obj\Debug\AkbankWebPracticum.csproj.AssemblyReference.cache
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\obj\Debug\AkbankWebPracticum.Form1.resources
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\obj\Debug\AkbankWebPracticum.Properties.Resources.resources
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\obj\Debug\AkbankWebPracticum.csproj.GenerateResource.cache
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\obj\Debug\AkbankWebPracticum.csproj.CoreCompileInputs.cache
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\obj\Debug\AkbankWebPracticum.exe
+C:\Users\onr_5\source\repos\AkbankWebPracticum\AkbankWebPracticum\obj\Debug\AkbankWebPracticum.pdb
